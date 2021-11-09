@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Volodymyr1503
 - 👀 I’m interested in Front End
-- 🌱 I’m currently learning React.js (Redux, React Hooks, MaterialUI)
-- 💞️ I’m looking to collaborate on Upwork platform
+- 🌱 I’m currently learning Angular (Angular 10+, Material Design, Angular LifeCicle methods, JSON-server, rxjs)
 - 📫 How to reach me? => 0936197637 or volodymyr15.2017@gmail.com
 
 <!---
